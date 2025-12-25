@@ -36,7 +36,7 @@
                                            ▶️ How to Run the Game
 
 1. Clone the repository
-      =>
+       => https://github.com/DP-2807/GUI_Games.git
 2. Open the project in IntelliJ IDEA / Vs Code
 
 3. Run the main class
